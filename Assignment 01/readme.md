@@ -1,6 +1,4 @@
-# Code-Lab-ML-Assignments
-
-## Assignment 01/
+# Assignment 01/
 
 ### REQUIREMENTS :
 
