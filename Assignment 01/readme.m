@@ -1,6 +1,9 @@
-# Assignment 01
+# Code-Lab-ML-Assignments
 
-# REQUIREMENTS :
+## Assignment 01/
+
+### REQUIREMENTS :
+
 -Read CSV file into a DataFrame using Pandas.
 
 -Drop first column (First Name).
