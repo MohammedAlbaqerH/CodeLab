@@ -1,4 +1,4 @@
-## Assignment 06/
+## Assignment 06
 You'll be creating a model that takes in a sentence and predicts the appropriate emoji that describes the sentiment (similar to the IMDB example we did this week but with extra sentiments (6 instead of just 2)).
 ### DATASETS:
 The dataset consists of two csv files, a training file with 16k rows and a testing file with 2k rows, each row has 3 columns, the sentence, the emotion as text (meant to provide description to the emoji and not to be used in training/testing) and the emoji symbol (e.g. 😄, 😡, 😍).
